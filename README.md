@@ -1,2 +1,2 @@
 # chrome-extension
-Just learning how to do Chrome extensions.
+Just learning how to build Chrome extensions.
